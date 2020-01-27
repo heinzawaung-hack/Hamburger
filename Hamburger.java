@@ -75,9 +75,4 @@ public class Hamburger {
 
         return hamburgerPrice;
     }
-
-
-
-
-
 }
